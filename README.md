@@ -99,4 +99,4 @@ python previsoes.py
 
 ## 👤 Autor
 
-Desenvolvido por Enzo Farias Alves Oliveira — Analista de Dados em formação.
+Desenvolvido por Enzo Farias Alves Oliveira — Analista de Dados.
