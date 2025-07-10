@@ -65,6 +65,6 @@ for modelo, metricas in resultados.items():
     for metrica, valor in metricas.items():
         print(f"{metrica}: {valor:.4f}")
 
-# Escolher modelo final (pelo melhor AUC)
+# Escolher modelo final - parte adicionada depois dos testes.
 modelo_escolhido = xgb_model
 print("\nModelo escolhido: XGBoost")
